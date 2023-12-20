@@ -1,0 +1,5 @@
+PH1,,E:\anh-dai-dien-nhom-chat-6.jpg,1 sao,a
+PH1,1,E:\anhcv.jpg,2 sao,1
+PH1,1,E:\Picture1.png,1 sao,áo như cc
+PH1,2020606605,File Chooser,4 sao,Đẹp
+PH2,2020606605,C:\Users\admin\Pictures\Screenshots\Screenshot (1).png,1 sao,Test
